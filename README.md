@@ -58,6 +58,7 @@ Include:
 - How scoring/evaluation works
 - Any configurable parameters (like task specification)
 - Requirements for participant agents
+- Test
 
 ### 4. Push your changes
 ```bash
