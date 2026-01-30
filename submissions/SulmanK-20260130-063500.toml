@@ -1,0 +1,12 @@
+[green_agent]
+agentbeats_id = "019bc3ce-541e-7390-be5d-196886ac07b4"
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
+
+[[participants]]
+agentbeats_id = "019c0b97-23b9-73b1-b706-42b211fa28b5"
+name = "agent"
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
+
+[config]
+num_tasks = 40          
+
