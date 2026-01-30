@@ -38,4 +38,6 @@ Endpoint:
 - `POST /` with JSON body
 
 Expected response schema:
+```
 {"type": "speak|vote|night_power", "content"?: "...", "target"?: "Name"}
+```
