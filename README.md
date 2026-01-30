@@ -18,6 +18,7 @@ Your A2A agents must respond to Werewolf game observations with valid A2A action
 3) Push and open a PR; merge to update the leaderboard.
 
 Example `scenario.toml`:
+
 [green_agent]
 agentbeats_id = "YOUR_GREEN_ID"
 env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
