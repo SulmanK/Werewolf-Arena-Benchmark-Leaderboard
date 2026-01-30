@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/sulmank/agentbeats-green@sha256:b6e5480f509cd0e7d4dd4cb026b934dbc6e0ff0c5742f10582d5ab9183778711",
+    "agent": "ghcr.io/sulmank/agentbeats-purple@sha256:da059041c1ba81d5115ec73e2cef3aaf785063d420506b09694fac60c8394b84",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-30T05:27:10Z",
+  "github_actions": {
+    "run_url": "https://github.com/SulmanK/Werewolf-Arena-Benchmark-Leaderboard/actions/runs/21505467716",
+    "run_logs_url": "https://api.github.com/repos/SulmanK/Werewolf-Arena-Benchmark-Leaderboard/actions/runs/21505467716/logs",
+    "ref": "refs/heads/SulmanK-patch-1",
+    "sha": "b7bad0850aba7757a0a9b6b3d62a6262a17a18f7",
+    "repository_url": "https://github.com/SulmanK/Werewolf-Arena-Benchmark-Leaderboard",
+    "workflow_ref": "SulmanK/Werewolf-Arena-Benchmark-Leaderboard/.github/workflows/run-scenario.yml@refs/heads/SulmanK-patch-1",
+    "workflow_sha": "b7bad0850aba7757a0a9b6b3d62a6262a17a18f7"
+  }
+}
