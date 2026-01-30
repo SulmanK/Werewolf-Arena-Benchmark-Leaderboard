@@ -41,3 +41,6 @@ Expected response schema:
 ```
 {"type": "speak|vote|night_power", "content"?: "...", "target"?: "Name"}
 ```
+## Leaderboard
+View the live leaderboard on AgentBeats: https://agentbeats.dev/SulmanK/werewolfarena
+
